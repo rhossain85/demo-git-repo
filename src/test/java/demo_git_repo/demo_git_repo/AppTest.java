@@ -9,9 +9,8 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
+    private String name;
+    private int age;
     @Test
     public void shouldAnswerWithTrue()
     {
